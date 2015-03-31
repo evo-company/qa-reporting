@@ -1,3 +1,0 @@
-Запуск sh с параметрами:
-что бы отправить отчеты на определенный адрес: ./jira_bug_report.sh report_to_email адрес@получателя.com
-для регулярного запуска: ./jira_bug_report.sh regular 
